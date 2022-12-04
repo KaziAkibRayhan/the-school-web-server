@@ -1,28 +1,83 @@
 [
     {
-        _id: "0282e0e58a5c404fbd15261f11c2ab6a",
-        others_info: {
-          is_todays_pick: false,
-          is_trending: true
-        },
-        category_id: "01",
-        rating: {
-          number: 4.5,
-          badge: "Excellent"
-        },
-        total_view: 488,
-        title: "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
-        author: {
-          name: "Jimmy Dane",
-          published_date: "2022-08-24 17:27:34",
-          img: "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-        },
-        thumbnail_url: "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-        image_url: "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-        details: "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
-      },
-
-    {
         id: '1',
-    }
+        course_name: 'MERN Stack Web Developer',
+        img: 'https://i.ibb.co/Q6Dg31R/MERN-Stack.png',
+        course_option: '01',
+        course_duration: '6 Month',
+        rating: '5',
+        details: "MERN stands for MongoDB, Express, React and Node that the fullstack solution to make up the a web. product.MongoDB - Document Database ExpressJS - Node.js Web Framework  ReactJS - Client-side Javascript framework NodeJS - Premier Javascript web server"
+    },
+    {
+        id: '2',
+        course_name: 'Wordpress Web Developer',
+        img: 'https://i.ibb.co/ZVymWRd/Word-Press.png',
+        course_option: '01',
+        course_duration: '4 Month',
+        rating: '4',
+        details: "WordPress is a content management system (CMS) that allows you to host and build websites. WordPress contains plugin architecture and a template system, so you can customize any website to fit your business, blog, portfolio, or online store."
+    },
+    {
+        id: '3',
+        course_name: 'Django Web Developer',
+        img: 'https://i.ibb.co/K7qsyZ0/Django.png',
+        course_option: '01',
+        course_duration: '6 Month',
+        rating: '5',
+        details: "You can build a powerful website with just traditional Django but generally speaking if someone says 'full-stack' they are talking about an internal API that interacts with a separate, often complex, front-end powered by a JavaScript framework"
+    },
+    {
+        id: '4',
+        course_name: 'Enhancing Adobe Photoshop CC 2020 Skills',
+        img: 'https://i.ibb.co/Kx8bKGh/adobe.png',
+        course_option: '02',
+        course_duration: '3 Month',
+        rating: '5',
+        details: "Photoshop CC is an advanced imaging software used by video editors and photographers to alter or manipulate digital images. Photoshop is primarily used to edit 2D images, although it does offer some 3D image editing functionality."
+    },
+    {
+        id: '5',
+        course_name: 'Motion Graphics',
+        img: 'https://i.ibb.co/CPn0mv5/motion-graphics.jpg',
+        course_option: '02',
+        course_duration: '6 Month',
+        rating: '5',
+        details: "Motion graphics is animation, but with text as a major component. Essentially, it's animated graphic design. Ever since motion graphics first entered the scene, there's been a debate about the line between them and full animation."
+    },
+    {
+        id: '6',
+        course_name: 'Network Engineer',
+        img: 'https://i.ibb.co/5xM5qgn/network-engineer.jpg',
+        course_option: '03',
+        course_duration: '6 Month',
+        rating: '4',
+        details: "A network engineer is a technology professional who has the necessary skills to plan, implement and oversee the computer networks that support in-house voice, data, video and wireless network services."
+    },
+    {
+        id: '7',
+        course_name: 'Digital Marketing Basic to Advanced',
+        img: 'https://i.ibb.co/cgdx6Cy/digital-markting.png',
+        course_option: '04',
+        course_duration: '3 Month',
+        rating: '3',
+        details: "Digital marketing, also called online marketing, is the promotion of brands to connect with potential customers using the internet and other forms of digital communication. This includes not only email, social media, and web-based advertising, but also text and multimedia messages as a marketing channel."
+    },
+    {
+        id: '8',
+        course_name: 'SEO (Search Engine Optimization) Courses',
+        img: 'https://i.ibb.co/3CQM6jm/SEO.jpg',
+        course_option: '05',
+        course_duration: '3 Month',
+        rating: '3',
+        details: "SEO stands for 'Search Engine Optimization', which is the process of getting traffic from free, organic, editorial, or natural search results in search engines. It aims to improve your website's position in search results pages. Remember, the higher the website is listed, the more people will see it."
+    },
+    {
+        id: '9',
+        course_name: 'Data Entry Operatore (Freelancing)',
+        img: 'https://i.ibb.co/bm5CBpW/data-entry-operator.jpg',
+        course_option: '06',
+        course_duration: '3 Month',
+        rating: '3',
+        details: "Prepares, compiles, and sorts documents for data entry. Verifies and logs receipt of data. Transcribes source data into the required electronic format. Transfers information from paper formats into computer files using keyboards, data recorders, or optical scanners."
+    },
 ]
