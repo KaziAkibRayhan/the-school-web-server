@@ -13,6 +13,12 @@ app.get('/courses', (req, res) => {
 })
 
 
+
+app.get('/courses/:id', (req, res) => {
+    const singleCourse = courses.find(course => course.id == req.params.id)
+    res.send(singleCourse)
+})
+
 app.listen(port, () => {
     console.log(`Server running on port ${port}`)
 })
