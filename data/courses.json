@@ -1,10 +1,11 @@
 [
     {
         "id": 1,
-        "course_name": "MERN Stack Web Developer",
+        "course_name": "MERN Web Developer",
         "img": "https://i.ibb.co/Q6Dg31R/MERN-Stack.png",
         "course_option": 1,
         "course_duration": "6 Month",
+        "course_fee": 5000,
         "rating": 5,
         "details": "MERN stands for MongoDB, Express, React and Node that the fullstack solution to make up the a web. product.MongoDB - Document Database ExpressJS - Node.js Web Framework  ReactJS - Client-side Javascript framework NodeJS - Premier Javascript web server"
     },
@@ -14,6 +15,7 @@
         "img": "https://i.ibb.co/ZVymWRd/Word-Press.png",
         "course_option": 1,
         "course_duration": "4 Month",
+        "course_fee": 4000,
         "rating": 4,
         "details": "WordPress is a content management system (CMS) that allows you to host and build websites. WordPress contains plugin architecture and a template system, so you can customize any website to fit your business, blog, portfolio, or online store."
     },
@@ -23,6 +25,7 @@
         "img": "https://i.ibb.co/K7qsyZ0/Django.png",
         "course_option": 1,
         "course_duration": "6 Month",
+        "course_fee": 6000,
         "rating": 5,
         "details": "You can build a powerful website with just traditional Django but generally speaking if someone says 'full-stack' they are talking about an internal API that interacts with a separate, often complex, front-end powered by a JavaScript framework"
     },
@@ -32,6 +35,7 @@
         "img": "https://i.ibb.co/Kx8bKGh/adobe.png",
         "course_option": 2,
         "course_duration": "3 Month",
+        "course_fee": 3000,
         "rating": 5,
         "details": "Photoshop CC is an advanced imaging software used by video editors and photographers to alter or manipulate digital images. Photoshop is primarily used to edit 2D images, although it does offer some 3D image editing functionality."
     },
@@ -41,6 +45,7 @@
         "img": "https://i.ibb.co/CPn0mv5/motion-graphics.jpg",
         "course_option": 2,
         "course_duration": "6 Month",
+        "course_fee": 4000,
         "rating": 5,
         "details": "Motion graphics is animation, but with text as a major component. Essentially, it's animated graphic design. Ever since motion graphics first entered the scene, there's been a debate about the line between them and full animation."
     },
@@ -50,6 +55,7 @@
         "img": "https://i.ibb.co/5xM5qgn/network-engineer.jpg",
         "course_option": 3,
         "course_duration": "6 Month",
+        "course_fee": 4000,
         "rating": 4,
         "details": "A network engineer is a technology professional who has the necessary skills to plan, implement and oversee the computer networks that support in-house voice, data, video and wireless network services."
     },
@@ -59,6 +65,7 @@
         "img": "https://i.ibb.co/cgdx6Cy/digital-markting.png",
         "course_option": 4,
         "course_duration": "3 Month",
+        "course_fee": 5500,
         "rating": 3,
         "details": "Digital marketing, also called online marketing, is the promotion of brands to connect with potential customers using the internet and other forms of digital communication. This includes not only email, social media, and web-based advertising, but also text and multimedia messages as a marketing channel."
     },
@@ -68,6 +75,7 @@
         "img": "https://i.ibb.co/3CQM6jm/SEO.jpg",
         "course_option": 5,
         "course_duration": "3 Month",
+        "course_fee": 2000,
         "rating": 3,
         "details": "SEO stands for 'Search Engine Optimization', which is the process of getting traffic from free, organic, editorial, or natural search results in search engines. It aims to improve your website's position in search results pages. Remember, the higher the website is listed, the more people will see it."
     },
@@ -77,6 +85,7 @@
         "img": "https://i.ibb.co/bm5CBpW/data-entry-operator.jpg",
         "course_option": 6,
         "course_duration": "3 Month",
+        "course_fee": 2000,
         "rating": 3,
         "details": "Prepares, compiles, and sorts documents for data entry. Verifies and logs receipt of data. Transcribes source data into the required electronic format. Transfers information from paper formats into computer files using keyboards, data recorders, or optical scanners."
     }
